@@ -13,7 +13,7 @@
       "id": "did:web:julis.pet#atproto",
       "type": "Multikey",
       "controller": "did:web:julis.pet",
-      "publicKeyMultibase": "zDnaedA8eKzCfoeiEE7BufMaA6735tkofPCLDXqUokYKizAPr"
+      "publicKeyMultibase": "zQ3shuAaGx1v2dFQPwzvKCrfz9bv8aRUAuvbAnXrHrMwMi2qz"
     }
   ],
   "service": [
